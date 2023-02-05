@@ -1,0 +1,3 @@
+
+rootProject.name = "sdHw6"
+
